@@ -1,0 +1,44 @@
+[
+  {
+    "title": " post 1",
+    "body": "this is test post 1",
+    "image": "https://images.pexels.com/photos/8238751/pexels-photo-8238751.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "shahad"
+  },
+  {
+    "title": " post 2",
+    "body": "this is test post 2",
+    "image": "https://images.pexels.com/photos/10211293/pexels-photo-10211293.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "Nada"
+  },
+  {
+    "title": " post 3",
+    "body": "this is test post 3",
+    "image": "https://images.pexels.com/photos/8975677/pexels-photo-8975677.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "Siba"
+  },
+  {
+    "title": " post 4",
+    "body": "this is test post 4",
+    "image": "https://images.pexels.com/photos/10276022/pexels-photo-10276022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "owner": "Mohammde"
+  },
+  {
+    "title": " post 5",
+    "body": "this is test post 5",
+    "image": "https://images.pexels.com/photos/9129819/pexels-photo-9129819.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "Rakan"
+  },
+  {
+    "title": " post 6",
+    "body": "this is test post 6",
+    "image": "https://images.pexels.com/photos/9825207/pexels-photo-9825207.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "Khould"
+  },
+  {
+    "title": " post 7",
+    "body": "this is test post 7",
+    "image": "https://images.pexels.com/photos/10339367/pexels-photo-10339367.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    "owner": "Sara"
+  }
+]
