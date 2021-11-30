@@ -1,0 +1,27 @@
+{
+  "name": "week_8_day_3_posts_api",
+  "version": "1.0.0",
+  "description": "create an api that have:\r * get posts\r * get one post by id\r * edit post\r * delete post",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magdi7021/week_8_day_3_posts_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magdi7021/week_8_day_3_posts_api/issues"
+  },
+  "homepage": "https://github.com/Magdi7021/week_8_day_3_posts_api#readme"
+}
