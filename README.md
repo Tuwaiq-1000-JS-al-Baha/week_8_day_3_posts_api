@@ -1,10 +1,10 @@
 # week_8_day_3_posts_api
 
 create an api that have:
-* get posts
-* get one post by id
-* edit post
-* delete post
+* get posts(don)
+* get one post by id (don)
+* edit post (don)
+* delete post(don)
 
 
 example post:
