@@ -17,7 +17,7 @@ const postSchema = new mongoose.Schema({
 const postJoi = Joi.object({
   title: Joi.string().required().min(2).max(200),
   body: Joi.string().min(5).max(5000),
-  image: Joi.string(),
+  image: Joi.string().uri().max(90000),
   owner: Joi.string().required(),
 })
 
