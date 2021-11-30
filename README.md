@@ -16,4 +16,7 @@ example post:
   "image": "https://image.com/12345.png",
   "owner": "Mohammed"
 }
+
+npm install express mongoose joi nodemon body-parser dotenv
+
 ```
