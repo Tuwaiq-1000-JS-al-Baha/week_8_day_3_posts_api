@@ -1,0 +1,29 @@
+[
+  {
+    "title": "post test 1",
+    "body": "test body!!",
+    "image": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "owner": "mohammed"
+  },
+  {
+    "title": "post test 2",
+    "body": "test body!!",
+    "image": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "owner": "mohammed"
+
+  },
+  {
+    "title": "post test 3",
+    "body": "test body!!",
+    "image": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "owner": "mohammed"
+
+  },
+  {
+    "title": "post test 4",
+    "body": "test body!!",
+    "image": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "owner": "mohammed"
+
+  }
+]
