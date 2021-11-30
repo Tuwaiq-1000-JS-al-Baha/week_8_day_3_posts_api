@@ -6,7 +6,7 @@ const { Post , postJoi } = require("../modules/Post")
 
 // get all posts
 router.get("/" , async (req , res )=> {
-    const posts = await Post.find()
+    const posts = await Post.find().select("-__v").sort("-dateCreated")
 
     res.json(posts)
 })
