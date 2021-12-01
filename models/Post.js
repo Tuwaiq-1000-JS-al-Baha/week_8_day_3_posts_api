@@ -21,7 +21,7 @@ const postJoi=Joi.object({
     owner:Joi.string().required(),
 })
 
-const post=mongoose.model("post",postSchema)
+const Post = mongoose.model("Post",postSchema)
 
-module.exports.post=post 
+module.exports.Post = Post 
 module.exports.postJoi=postJoi
