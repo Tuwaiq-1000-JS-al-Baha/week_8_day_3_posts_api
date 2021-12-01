@@ -4,7 +4,7 @@ const { Post, postJoi } = require("../models/Post")
 const mongoose = require("mongoose")
 
 router.get("/", async (req, res) => {
-  const posts = await Post.find().select("-__v").limit("5").sort("-dateCreated")
+  const posts = await Post.find().select("-__v").limit("50").sort("-dateCreated")
 
   res.json(posts)
 })
