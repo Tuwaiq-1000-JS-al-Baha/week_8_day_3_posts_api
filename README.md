@@ -3,6 +3,7 @@
 create an api that have:
 * get posts
 * get one post by id
+* add a post
 * edit post
 * delete post
 
